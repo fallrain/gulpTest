@@ -9,7 +9,13 @@
   "author": "王广开",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
     "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
+    "gulp-if": "^2.0.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.0",
+    "run-sequence": "^1.2.2"
   }
 }
